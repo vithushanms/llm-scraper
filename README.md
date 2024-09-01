@@ -1,4 +1,4 @@
-# llm-scrapper
+# llm-scraper
 
 An open-source AI based web scraping tool
 
@@ -12,15 +12,15 @@ An open-source AI based web scraping tool
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/llm-scrapper.git
-cd llm-scrapper
+git clone https://github.com/yourusername/llm-scraper.git
+cd llm-scraper
 ```
 
 ### Create a Conda Environment
 
 ```sh
 conda env create -f environment.yml
-conda activate llm-scrapper
+conda activate llm-scraper
 ```
 
 ### Install dependencies via poetry

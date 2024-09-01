@@ -1,4 +1,4 @@
-name: llm-scrapper-env
+name: llm-scraper-env
 channels:
   - defaults
 dependencies:

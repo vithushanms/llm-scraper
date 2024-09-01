@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "llm-scrapper"
+name = "llm-scraper"
 version = "1.0.0"
-description = "An open-source, AI based web scrapper"
+description = "An open-source, AI based web scraper"
 authors = ["Vithushan Sylvester <https://www.linkedin.com/in/msvithushan>"]
 license = "MIT"
 readme = "README.md"
