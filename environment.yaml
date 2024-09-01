@@ -1,0 +1,8 @@
+name: llm-scrapper-env
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - poetry==1.8.3
